@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\prajw\OneDrive\Desktop\ExpenseTrackerJar\ExpenseTrackerJar.jar</jar>
+  <outfile>C:\Users\prajw\OneDrive\Desktop\expensetracker.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\prajw\OneDrive\Desktop\budget.ico</icon>
+  <classPath>
+    <mainClass>ExpenseTrackerUI</mainClass>
+    <cp>.</cp>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jdk-21\bin</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
